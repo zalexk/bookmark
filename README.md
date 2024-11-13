@@ -1,3 +1,4 @@
+- [帮朋友改完留学申请的 PS，我总结了这 3 点建议 - 少数派](https://sspai.com/post/93710) It is also useful in Jupas Admisssion in HK #career
 - [LLM x 书签收藏：摘要 & 全文索引 - Nekonull's Garden](https://nekonull.me/posts/llm_x_bookmark/) #llm#reading
 
 # About
