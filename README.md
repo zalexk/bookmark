@@ -1,3 +1,4 @@
+- [评论尸的 AI 生产力经验 | 虹线](https://1q43.blog/post/10695/)
 - [P 人也要时间管理？2024 的实践小结 - 少数派](https://sspai.com/post/95280) A innovative time management scheme for those who cannot achieve his planning #time-management,-personal-development
 - [EE 入门（一） - 电子电路基础知识](https://thiscute.world/posts/electrical-engineering-circuits-basics-1/) #hardware
 - [帮朋友改完留学申请的 PS，我总结了这 3 点建议 - 少数派](https://sspai.com/post/93710) It is also useful in Jupas Admisssion in HK #career
