@@ -1,3 +1,4 @@
+- [Deepseek R1可能找到了超越人类的办法 | TL;DR](https://mazzzystar.com/2025/01/30/chatgpt-to-deepseek-r1-zh/) A good explanation about the technical detaiils of LLMs #llm
 - [评论尸的 AI 生产力经验 | 虹线](https://1q43.blog/post/10695/)
 - [P 人也要时间管理？2024 的实践小结 - 少数派](https://sspai.com/post/95280) A innovative time management scheme for those who cannot achieve his planning #time-management,-personal-development
 - [EE 入门（一） - 电子电路基础知识](https://thiscute.world/posts/electrical-engineering-circuits-basics-1/) #hardware
