@@ -1,3 +1,4 @@
+- [TCP是如何传输数据的](https://windsong.top/tcp%E6%8A%A5%E6%96%87/) #internet
 - [理解端口号](https://windsong.top/%E7%90%86%E8%A7%A3%E7%AB%AF%E5%8F%A3%E5%8F%B7/) #internet
 - [Deepseek R1可能找到了超越人类的办法 | TL;DR](https://mazzzystar.com/2025/01/30/chatgpt-to-deepseek-r1-zh/) A good explanation about the technical detaiils of LLMs #llm
 - [评论尸的 AI 生产力经验 | 虹线](https://1q43.blog/post/10695/)
