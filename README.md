@@ -1,4 +1,4 @@
-- [上架就被抢断货的 CtoC 转接头，Type-C 接口真的统一了吗？ - 少数派](https://sspai.com/post/108325) #electric
+- [上架就被抢断货的 CtoC 转接头，Type-C 接口真的统一了吗？ - 少数派](https://sspai.com/post/108325) #digital
 - [入门到精通：从今天开始成为感冒专家 - 少数派](https://sspai.com/post/84574) #health
 - [不止于聊天：我的 Vibe Coding 工作流，用上下文与 MCP 打造更聪明的 AI 助手 - 少数派](https://sspai.com/post/101833) #llm#vide-coding
 - [科技爱好者周刊（第 381 期）：中国 AI 大模型领导者在想什么 - 阮一峰的网络日志](https://www.ruanyifeng.com/blog/2026/01/weekly-issue-381.html) #llm
