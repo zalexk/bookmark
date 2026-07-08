@@ -1,3 +1,4 @@
+- [Learning How to Learn 课程笔记](https://linghao.io/posts/notes-learning-how-to-learn)
 - [Anatomy of the .claude/ Folder](https://blog.dailydoseofds.com/p/anatomy-of-the-claude-folder) #llm#vibe-coding
 - [上架就被抢断货的 CtoC 转接头，Type-C 接口真的统一了吗？ - 少数派](https://sspai.com/post/108325) #digital
 - [入门到精通：从今天开始成为感冒专家 - 少数派](https://sspai.com/post/84574) #health
