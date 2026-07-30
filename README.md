@@ -1,3 +1,4 @@
+- [Agent Experience 导论 - 少数派](https://sspai.com/post/107600) #llm#vibe-coding
 - [告别阅读焦虑：一份硬核科学阅读指南 - 少数派](https://sspai.com/post/110557)
 - [从 Prompt 到 Agent：这几年我们是怎么学会"用"大模型的](https://popring.cn/blog/from-prompt-to-agent) #llm
 - [Learning How to Learn 课程笔记](https://linghao.io/posts/notes-learning-how-to-learn)
