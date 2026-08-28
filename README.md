@@ -1,3 +1,4 @@
+- [笔记系统回顾：我与 Obsidian 不知不觉的 4 年 - 少数派](https://sspai.com/post/85339) #obsidian
 - [数据分析：用好 Excel 中的数据透视表 - 少数派](https://sspai.com/post/113108) #excel#dataanalysis
 - [关于胃肠镜，你需要知道的一切 - 少数派](https://sspai.com/post/109040) #health
 - [Agent Experience 导论 - 少数派](https://sspai.com/post/107600) #llm#vibe-coding
