@@ -1,3 +1,4 @@
+- [从 AI 写代码到 AI 工作流 · 一次需求的两条命，和救回它的六个阶段](https://czm15053.github.io/ai-workflow-six-stages/#opening) #vibe-coding
 - [VPS 推荐](https://aoang.x2ox.com/2026/vps-recommend/) #digital
 - [Ch3nyang's blog | 银行卡交易剖析——从刷卡到结算](https://blog.ch3nyang.top/post/%E4%BA%A4%E6%98%93%E6%A8%A1%E5%9E%8B/) A detailed introducion of card transaction #finance
 - [笔记系统回顾：我与 Obsidian 不知不觉的 4 年 - 少数派](https://sspai.com/post/85339) #obsidian
